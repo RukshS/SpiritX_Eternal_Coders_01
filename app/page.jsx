@@ -1,9 +1,9 @@
-import LoginForm from "@/components/LoginForm";
+import LandingPage from "@/components/LandingPage";
 
 export default function Home() {
-  return (
-      <main>
-          <LoginForm />
-    </main>
-  );
+    return (
+        <main>
+            <LandingPage />
+        </main>
+    );
 }
