@@ -37,6 +37,7 @@ Change into the cloned directory.
 
 ```bash
 cd SpiritX_Eternal_Coders_01
+git checkout frontend-change
 ```
 
 Create a .env file in the root of the project directory with the following variables:
